@@ -28,4 +28,4 @@ Check indicates requirements are complete
 - [ ] [04 - Software Testing](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/04%20-%20Software%20Testing)
 
 ## TODO
-- proofread architectual design file
+- Proofread architectual design file
