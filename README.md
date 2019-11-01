@@ -6,6 +6,12 @@ the guidance of Ma. Rowena C. Solamo for the
 1st and 2nd Semester of the academic year
 
 **2019-2020**
+## Description
+Binge Buddy, your buddy when you binge your favorite media! This little app helps you keep track of any show you are watching from episodes you are watching and even suggests to you shows you are bound to enjoy! Right now the app is still in middle planning stages and will have the following features!
+- Keep track of season and episode progress
+- Select media of your own choosing from a massive list
+- Add your own custom media that can be tracked
+- Be suggested media that will suit your tastes
 
 ## Group Number : 8
 ### Members
