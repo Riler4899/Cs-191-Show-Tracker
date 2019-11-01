@@ -11,7 +11,7 @@ Ma. Rowena C. Solamo for the 1st and 2nd Semester of the academic year **<2019-2
 
 
 ## Files within
-- [X] [01 - Project Documents](../01 - Project Documents/)
+- [X] [01 - Project Documents](../01 - Project Documents)
 - [X] 02 - EngineeringRequirements
 - [ ] 03 - Design Engineering
 - [ ] 04 - Software Testing
