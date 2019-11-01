@@ -15,7 +15,7 @@ Binge Buddy, your buddy when you binge your favorite media! This little app help
 
 ## Group Number : 8
 ### Members
-- Abelardo Sison
+- [Abelardo Sison](https://github.com/Riler4899)
 - Lance Pineda
 - Samuel Jose
 
