@@ -24,8 +24,8 @@ Binge Buddy, your buddy when you binge your favorite media! This little app help
 Check indicates requirements are complete
 - [X] [01 - Project Documents](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/01%20-%20Project%20Documents)
 - [X] [02 - EngineeringRequirements](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/02-EngineeringRequirements)
-- [ ] [03 - Design Engineering](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/03%20-%20Design%20Engineering)
-- [ ] [04 - Software Testing](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/04%20-%20Software%20Testing)
+- [X] [03 - Design Engineering](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/03%20-%20Design%20Engineering)
+- [X] [04 - Software Testing](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/04%20-%20Software%20Testing)
 
-## TODO
-- Proofread architectual design file
+## SPRINT
+- Sprint number: 1
