@@ -11,7 +11,7 @@ Binge Buddy, your buddy when you binge your favorite media! This little app help
 - Keep track of season and episode progress
 - Select media of your own choosing from a massive list
 - Add your own custom media that can be tracked
-- Be suggested media that will suit your tastes
+
 
 ## Group Number : 8
 ### Members
