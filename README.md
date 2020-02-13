@@ -28,4 +28,4 @@ Check indicates requirements are complete
 - [X] [04 - Software Testing](https://github.com/Riler4899/Cs-191-Show-Tracker/tree/master/04%20-%20Software%20Testing)
 
 ## SPRINT
-- Sprint number: 1
+- Sprint number: 2
